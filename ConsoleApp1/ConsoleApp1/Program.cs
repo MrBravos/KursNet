@@ -13,7 +13,7 @@ namespace ConsoleApp1
             //snippets
             //cw+ (2xTAB)
             Console.WriteLine();
-
+            //zmiana
 
 
         }
